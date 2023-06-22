@@ -53,7 +53,7 @@ public class FirstScreenController implements Initializable {
 
 
         // Load and set the image
-        Image image = new Image("/images/678-6787093_maze-runner-png.png"); // Replace "your_image.png" with the actual path or URL of your PNG image
+        Image image = new Image("/ATP-Project-PartC/ATP-Project-PartC/resources/images/678-6787093_maze-runner-png.png"); // Replace "your_image.png" with the actual path or URL of your PNG image
         imageView.setImage(image);
 
         // Set the dimensions of the image view
