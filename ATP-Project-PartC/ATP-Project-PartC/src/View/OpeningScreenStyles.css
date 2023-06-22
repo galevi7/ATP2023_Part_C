@@ -1,0 +1,9 @@
+.root {
+    -fx-background-image: url("/images/character_background.jpg");
+    -fx-background-size: cover;
+}
+
+.button-green {
+    -fx-background-color: green;
+}
+
